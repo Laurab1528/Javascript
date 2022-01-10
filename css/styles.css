@@ -1,0 +1,16 @@
+.valido {
+    color: #40e00f;
+}
+
+.invalido {
+    color: #e72222;
+}
+
+.item span {
+    font-weight: bolder;
+}
+
+.listaDeProductos {
+    max-height: 300px;
+    overflow-y: auto;
+}
